@@ -79,6 +79,12 @@ which completes it's tween in a given amount of frames (stretched over the
 duration of the animation) and `Khan.Loop` which executes a given amount of frames
 over and over.
 
+## Contributing
+1. Fork the Repo
+2. Install everything with `npm install`
+3. Run `grunt test` to run the test suite
+4. Make a new branch, test, pull request, you know the drill
+
 ## Contributors
 
 [Stephen Prater](https://github.com/stephenprater)
